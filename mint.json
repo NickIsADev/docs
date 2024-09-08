@@ -1,5 +1,6 @@
 {
   "name": "Ducky",
   "logo": "images/duckylogo.svg",
-  "favicon": "https://www.duckybot.xyz/Ducky.svg"
+  "favicon": "https://www.duckybot.xyz/Ducky.svg",
+  "backgroundImage": "https://www.duckybot.xyz/DuckyBackground.svg"
 }
