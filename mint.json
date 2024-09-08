@@ -1,14 +1,14 @@
 {
   "name": "Ducky",
   "logo": "images/duckylogo.svg",
-  "favicon": "favicon.svg",
+  "favicon": "images/duckylogo.svg",
   "colors": {
-    "primary": "#0099FF",
-    "light": "#AADDFF",
-    "dark": "#555555",
+    "primary": "#FF0000",
+    "light": "#00FF00",
+    "dark": "#0000FF",
     "background": {
-      "light": "#6666FF",
-      "dark": "#001d3b"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   "backgroundImage": "https://www.duckybot.xyz/Ducky.svg",
