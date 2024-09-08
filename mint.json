@@ -6,7 +6,12 @@
     "primary": "#AADDFF"
   },
   "backgroundImage": "https://www.duckybot.xyz/DuckyBackground.svg",
-  "navigation": {
-    
-  }
+  "navigation": [
+    {
+      "group": "Welcome",
+      "pages": [
+        "introduction"
+      ]
+    }
+  ]
 }
