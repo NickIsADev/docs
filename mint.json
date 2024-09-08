@@ -1,11 +1,31 @@
 {
   "name": "Ducky",
   "logo": "images/duckylogo.svg",
-  "favicon": "https://www.duckybot.xyz/Ducky.svg",
+  "favicon": "favicon.svg",
   "colors": {
     "primary": "#AADDFF"
   },
   "backgroundImage": "https://www.duckybot.xyz/Ducky.svg",
+  "topbarLinks": [
+    {
+      "name": "Home",
+      "url": "https://duckybot.xyz"
+    },
+    {
+      "name": "Status",
+      "url": "https://status.duckybot.xyz"
+    },
+    {
+      "name": "Support",
+      "url": "https://duckybot.xyz/support"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Add Ducky",
+    "url": "https://duckybot.xyz/invite",
+    "style": "roundedRectangle",
+    "arrow": false
+  },
   "navigation": [
     {
       "group": "Welcome",
