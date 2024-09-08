@@ -2,5 +2,8 @@
   "name": "Ducky",
   "logo": "images/duckylogo.svg",
   "favicon": "https://www.duckybot.xyz/Ducky.svg",
+  "colors": {
+    "primary": "#AADDFF"
+  },
   "backgroundImage": "https://www.duckybot.xyz/DuckyBackground.svg"
 }
