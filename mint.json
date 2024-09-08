@@ -4,7 +4,7 @@
   "favicon": "images/duckylogo.svg",
   "colors": {
     "primary": "#F5E731",
-    "light": "#F5FF82",
+    "light": "#DED600",
     "dark": "#F5FF82",
     "background": {
       "light": "#FFFFFF",
