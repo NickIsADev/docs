@@ -3,12 +3,12 @@
   "logo": "images/duckylogo.svg",
   "favicon": "images/duckylogo.svg",
   "colors": {
-    "primary": "#FF0000",
-    "light": "#00FF00",
-    "dark": "#0000FF",
+    "primary": "#F5E731",
+    "light": "#F5FF82",
+    "dark": "#F5FF82",
     "background": {
       "light": "#FFFFFF",
-      "dark": "#000000"
+      "dark": "#151515"
     }
   },
   "backgroundImage": "https://www.duckybot.xyz/Ducky.svg",
