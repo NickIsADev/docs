@@ -32,6 +32,12 @@
       "pages": [
         "introduction"
       ]
+    },
+    {
+      "group": "Configuration",
+      "pages": [
+        "configuration/initialsetup.mdx"
+      ]
     }
   ]
 }
