@@ -1,1 +1,86 @@
-{}
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Astro Birb",
+  "logo": {
+    "dark": "images/bastrologo.svg",
+    "light": "images/bastrologo.svg"
+  },
+  "favicon": "https://www.astrobirb.dev/astro-logo.svg",
+  "colors": {
+    "primary": "#5b65e8",
+    "light": "#5b65e8",
+    "dark": "#5b65e8",
+    "anchors": {
+      "from": "#5b65e8",
+      "to": "#5b65e8"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Home",
+      "url": "https://astrobirb.dev"
+    },
+    {
+      "name": "Status",
+      "url": "https://status.astrobirb.dev"
+    },
+    {
+      "name": "Support",
+      "url": "https://astrobirb.dev/support"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Invite",
+    "url": "https://discord.com/api/oauth2/authorize?client_id=1113245569490616400&permissions=429765553360&scope=bot%20applications.commands"
+  },
+  "anchors": [
+    {
+      "name": "Support Server",
+      "icon": "Discord",
+      "url": "https://astrobirb.dev/support"
+    },
+    {
+      "name": "Website",
+      "icon": "newspaper",
+      "url": "https://astrobirb.dev"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Bulletin",
+      "pages": [
+        "introduction",
+        "bughunting"
+      ]
+    },
+    {
+      "group": "Configuration",
+      "pages": [
+        "configuration/beginner",
+        "configuration/permissions",
+        "configuration/variables"
+
+
+      ]
+    },
+    {
+      "group": "Modules",
+       "pages": [
+        "Modules/infractions",
+        "Modules/promotions",
+        "Modules/quota",
+        "Modules/feedback",
+        "Modules/loa",
+        "Modules/suggestions",
+        "Modules/reports",
+        "Modules/modmail",
+        "Modules/groups",
+        "Modules/responder"
+       ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/Astro-Birb",
+    "discord": "https://discord.gg/DhWdgfh3hN"
+  }
+}
